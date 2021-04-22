@@ -1,0 +1,10 @@
+1 cource, Pavlov Vladislav Sergeevich, 18 years, M, 6
+2 cource, Ovsyank Maxim Alexandrovich, 19 years, M, 5
+4 cource, Ananyevva Ulyana Maksimovna, 18 years, F, 8
+1 cource, Lynko Artur Vyacheslavivich, 17 years, M, 7
+3 cource, Astasenchko Yanna Sergeevna, 18 years, F, 7
+3 cource, Ovsyannik Evgeny Sergeevich, 18 years, M, 4
+1 cource, Selynina Yuliana Evgenievna, 17 years, F, 10
+1 cource, Korpus Alexander Andreevich, 19 years, M, 5
+2 cource, Korpuseva Vera Vladimirovna, 18 years, F, 8
+1 cource, Zakharech Andrey Andreevich, 18 years, M, 7
